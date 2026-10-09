@@ -16,6 +16,10 @@ The website showcases hiking, zipline, climbing and buffet services with 12 resp
 6. overview.html - overiew page
 7. packages.html - packages page
 8. rate.html - rate us
+9. gallery.html- gallery tour
+10. faq.html- frequently asked questions
+11. booking.html - bookings page
+12. testimonials.html - testimonial page
    
 
 ## Technologies Used
