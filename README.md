@@ -31,18 +31,30 @@ The website showcases hiking, zipline, climbing and buffet services with 12 resp
 
 ### Reference List
 
-**Figure 1: a-woman-giving-the-peace-sign...JPG**
-Pexels. 2023. Woman giving peace sign whilst hiking. [Online image]. Available at: https://www.pexels.com/photo/woman-giving-peace-sign-while-hiking/ [Accessed: 07 October 2026].
 
-**Figure 2: zipline-ziprider-1-1920x700.avif**
-Drakensberg Canopy Tour. 2024. Zipline ziprider experience. [Online image]. Available at: https://www.drakensbergcanopytour.co.za/zipline/ [Accessed: 07 October 2026].
+1. Pexels. 2023. Woman giving peace sign whilst hiking. [Online image]. Available at: https://www.pexels.com/photo/woman-giving-peace-sign-while-hiking/ [Accessed: 07 October 2026].
 
-**Figure 3: climbing_2657588b_(1).webp**
-Pixabay. 2022. Person rock climbing on mountain cliff. [Online image]. Available at: https://pixabay.com/photos/climbing-mountain-sport-adventure-2657588/ [Accessed: 07 October 2026].
+2.  Pexels (2024) *pexels-photo-10363551.avif - Group hiking in forest*. Available at: https://www.pexels.com/photo/10363551/ [Accessed: 10 May 2026].
 
-**Figure 4: istockphoto-904172104-612x612.jpg**
-iStock by Getty Images. 2021. Group of friends hiking together outdoors. [Online image]. Available at: https://www.istockphoto.com/photo/group-of-friends-hiking-gm904172104-904172104 [Accessed: 07 October 2026].
+3.  Pexels (2024) *pexels-photo-11792446.avif - Outdoor adventure activity*. Available at: https://www.pexels.com/photo/11792446/ [Accessed: 10 May 2026].
 
-**Figure 5: Rosettas-Buffet-Hero-1024x50-1.webp**
-Rosettas Restaurant. 2024. Buffet hero image. [Online image]. Available at: https://www.rosettas.co.za/buffet/ [Accessed: 07 October 2026].
+4.  Pexels (2024) *pexels-photo-12207192.avif - Hiking trail adventure*. Available at: https://www.pexels.com/photo/12207192/ [Accessed: 10 May 2026].
+
+5.  Pexels (2024) *pexels-photo-14717372.avif - Cliff climbing*. Available at: https://www.pexels.com/photo/14717372/ [Accessed: 10 May 2026].
+
+6.  Pexels (2024) *pexels-photo-21338051.avif - Mountain biking*. Available at: https://www.pexels.com/photo/21338051/ [Accessed: 10 May 2026].
+
+7.  Pexels (2024) *pexels-photo-27769600.avif - Mountain road trip*. Available at: https://www.pexels.com/photo/27769600/ [Accessed: 10 May 2026].
+
+8.  Pexels (2024) *pexels-photo-33872465.avif - Night camping group*. Available at: https://www.pexels.com/photo/33872465/ [Accessed: 10 May 2026].
+
+9.  Pexels (2024) *pexels-photo-34004963.avif - Jungle exploration*. Available at: https://www.pexels.com/photo/34004963/ [Accessed: 10 May 2026].
+
+10. Pexels (2024) *pexels-photo-34776972.avif - Group hiking on rocks*. Available at: https://www.pexels.com/photo/34776972/ [Accessed: 10 May 2026].
+
+11. Pexels (2024) *pexels-photo-35571374.avif - Outdoor dining / camping meal*. Available at: https://www.pexels.com/photo/35571374/ [Accessed: 10 May 2026].
+
+12. Pexels (2024) *pexels-photo-40011316.avif - Rock climbing silhouette*. Available at: https://www.pexels.com/photo/40011316/ [Accessed: 10 May 2026].
+
+13. Rosettas (2024) Rosettas-Buffeet-Hero-1024x500-1.webp - Buffet food hero image*. Available at: https://www.rosettas.co.za/ [Accessed: 10 May 2026].
 
